@@ -15,7 +15,8 @@ Equipes:
 
 ## IFSP Salto 
 
-![IFSP-slt](./img/ifsp_slt.jpg)
+![IFSPslt](img/ifsp_slt.jpg)
+
 
 
 
