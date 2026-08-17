@@ -2,7 +2,7 @@
 
 ---
 
-Objetivo
+## Objetivo
 
 Equipes:
 
