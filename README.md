@@ -15,7 +15,22 @@ Equipes:
 
 ## IFSP Salto 
 
-![IFSPslt](img/ifsp_slt.jpg)
+
+| Figura 1: Logo IFSP Salto    |
+|:----------------------------:|
+| ![IFSPslt](img/ifsp_slt.jpg) |
+| Fonte: internet |
+
+
+
+
+
+
+
+
+
+
+
 
 
 
